@@ -20,5 +20,8 @@
     .carousel-inner p{
         font-size: 12;
     }
+    .course-img{
+        width: 490px;
+    }
     
 }
