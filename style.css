@@ -4,6 +4,12 @@
 .carousel-inner img{
     filter: brightness(50%);
 }
+.custom-text-decoration{
+    text-decoration: none;
+}
+.custom-text-decoration a{
+    color: aliceblue;
+}
 @media only screen and (max-width:767px){
     .carousel-inner img{
         height: 275px;
